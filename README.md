@@ -1,1 +1,1 @@
-Dit project werd gemaakt door Thibaut Van Goethem voor the systemen gedeelte van het vak computer systemen en architectuur
+this project was made by Thibaut Van Goethem for the systems part of the course "computer systemen en architectuur" at the university of Antwerp
